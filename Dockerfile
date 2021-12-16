@@ -1,4 +1,4 @@
-FROM alpine:3.13.6
+FROM alpine:3.15.0
 
 LABEL maintainer='leifcr@gmail.com'
 LABEL description='Alpine with jq and curl'
